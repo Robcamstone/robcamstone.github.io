@@ -1,0 +1,1 @@
+[{"method":"saveStyle","name":"Facebook: Fix profile photo being obscured by cover photo","enabled":true,"sections":[{"urls":[],"urlPrefixes":[],"domains":["facebook.com"],"regexps":[],"code":"@namespace url(http://www.w3.org/1999/xhtml);\n ._19wj {\n    z-index:1;\n}"}],"updateUrl":null,"md5Url":null,"url":null,"originalMd5":null,"id":3}]
