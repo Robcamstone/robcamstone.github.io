@@ -107,7 +107,6 @@ description: List of Bookmarks I use on a daily bases.
 * **My Youtube Channels**
    * [Robcamstone](https://www.youtube.com/channel/UCxGas6kcIvNZVIpZfTPKLug){: .external-link}
    * [Fanz of Bonnie Langford](https://www.youtube.com/channel/UCOkMlk-r6RflBEMiEW8Xyqg){: .external-link}
-   * [Fanz of Lucy Worsley](https://www.youtube.com/channel/UC8L4vWvQV3MUu8FrQqGiYvA){: .external-link}
    * [Fanz of Lena Zavaroni](https://www.youtube.com/channel/UCTcpqllbI3ir8AlUT3RnO_g){: .external-link}
 * **Third Party Websites**
    * [Thumbnail Save](http://thumbnailsave.com){: .external-link}
