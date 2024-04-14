@@ -22,28 +22,10 @@ permalink: /about/
    * telephonophobia
 
 ### My Interests include
-* [Music](/bookmarks/#music)
+* Music
 * comedy
 * history
-* [Justice](/categories/#Broken%20Justice)
-* [Poetry](/categories/#Poetry)
+* Justice
+* Poetry
 * science
-
-<style>
-.responsive-video {
-position: relative;
-padding-bottom: 56.25%;
-padding-top: 30px; height: 0; overflow: hidden;
-}
-
-.responsive-video iframe,
-.responsive-video object,
-.responsive-video embed {
-position: absolute;
-top: 0;
-left: 0;
-width: 100%;
-height: 100%;
-}
-</style>
 
