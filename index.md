@@ -61,11 +61,6 @@ description: List of Bookmarks I use on a daily bases.
    * [Pixabay](https://pixabay.com/en/users/Robcamstone-8863342){: .external-link}
 
 ### Lifestyle
-* **Health:**
-   * [Patient Access](https://www.patientaccess.com){: .external-link}
-   * [Poverest Medical Centre](http://www.poverestmedicalcentre.co.uk){: .external-link}
-* **Housing:**
-   * [My Clarion Home](https://www.myclarionhousing.com/){: .external-link}
 * **Shopping:**
    * [Argos](http://www.argos.co.uk){: .external-link}
    * [eBay](http://ebay.co.uk){: .external-link}
