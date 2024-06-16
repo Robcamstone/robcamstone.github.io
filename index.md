@@ -40,7 +40,6 @@ description: List of Bookmarks I use on a daily bases.
    * [Google Drive](https://drive.google.com/drive){: .external-link}
    * [Google Mail](http://gmail.com){: .external-link}
    * [Google Maps](https://www.google.co.uk/maps){: .external-link}
-      * [My Google Earth: Fanz of Lena Zavaroni](https://earth.google.com/earth/d/1aPUrdPvdWzzY9P8_ZEbHlEHSzgUug-Dy?usp=sharing){: .external-link}
 * [Google Photos](https://photos.google.com){: .external-link}
 * [Google Scholar](https://scholar.google.com){: .external-link}
 * [Search Console - Dashboard](https://www.google.com/webmasters/tools/dashboard?hl=en&authuser=0&siteUrl=https://fanzoflenazavaroni.github.io){: .external-link}
