@@ -59,17 +59,9 @@ description: List of Bookmarks I use on a daily bases.
    * [Mirrorpix](https://www.mirrorpix.com){: .external-link}
    * [Pixabay](https://pixabay.com/en/users/Robcamstone-8863342){: .external-link}
 
-### Lifestyle
-* **Shopping:**
-   * [Argos](http://www.argos.co.uk){: .external-link}
-   * [eBay](http://ebay.co.uk){: .external-link}
-   * [PayPal](http://paypal.co.uk){: .external-link}
-   * [Wordery](https://wordery.com){: .external-link}
-
 ### Music
    * [45worlds: Robcamstone](https://www.45worlds.com/m/robcamstone){: .external-link}
    * [Music Brainz: Robcamstone](https://musicbrainz.org/user/Robcamstone){: .external-link}
-   * [Listen Brainz: Robcamstone](https://listenbrainz.org/user/Robcamstone){: .external-link}
    * [Soundcloud: Robcamstone](https://soundcloud.com/robcamstone){: .external-link}
 
 ### Storage
